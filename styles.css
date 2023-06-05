@@ -5,8 +5,8 @@
 	background-color: black;
 width:auto-flow;
 	display: grid;
-	grid-template-columns: repeat(40,3%);
-	grid-template-row: repeat(20,3%);
+	grid-template-columns: repeat(40,1fr);
+	grid-template-row: repeat(20,1fr);
 	row-gap:3px;
 	column-gap: 3px;
 	
