@@ -16,10 +16,10 @@
 	height: 13px;
 	width: 13px;
 	background-color: #1d1d1d;
-	transition: 5s ease;
+	transition: 2s ease;
 }
 
 .square:hover {
 	background-color: red;
-	transition-duration: 1s;
+	transition-duration: 1s ease;
 }
