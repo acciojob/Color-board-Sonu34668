@@ -16,6 +16,7 @@
 	height: 13px;
 	width: 13px;
 	background-color: #1d1d1d;
+	transition: 5s ease;
 }
 
 .square:hover {
