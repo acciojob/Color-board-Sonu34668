@@ -13,7 +13,7 @@
 .square {
 	height: 13px;
 	width: 13px;
-	background-color:grey;
+	background-color:darkslategrey;
 }
 
 .square:hover {
